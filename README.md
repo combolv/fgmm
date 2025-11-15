@@ -15,7 +15,7 @@ Code for SIGGRAPH Asia 2025 paper - Fast Galerkin Multigrid Method for Unstructu
 
 ```bash
 # Clone the repository
-git clone git@github.com:jaimeyzzz/fgmm.git
+git clone git@github.com:jaimeyzzz/fgmm.git --recursive
 cd fgmm
 
 # Create build directory
